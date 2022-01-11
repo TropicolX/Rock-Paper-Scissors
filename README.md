@@ -1,6 +1,6 @@
 # Frontend Mentor - Rock, paper, scissors, lizard, spock solution
 
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the Rock, Paper, Scissors challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -32,16 +32,16 @@ Users should be able to:
 
 ### Live deployment preview
 
-[rock-paper-scissors-nosthrillz.vercel.app](https://rock-paper-scissors-nosthrillz.vercel.app)
+[#](https://#)
 
 ## My process
 
 ### Built with
 
-- React.js with context
-- SCSS
-- CSS in JS: styled-components
-- styled-react-modal
+-   React.js with context
+-   SCSS
+-   CSS in JS: styled-components
+-   styled-react-modal
 
 ### What I learned
 
